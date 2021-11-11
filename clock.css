@@ -1,0 +1,13 @@
+@import(url 'https://fonts.googleapis.com/css2?family=VT323&display=swap');
+body{
+  background-color: #F6F6F6;
+}
+.clock{
+  text-align: center;
+  margin-top: 25%;
+  margin-left: 25%;
+  margin-right: 25%;
+  font-family: 'VT323', monospace;
+  font-size: 30px;
+  background-color: DarkSeaGreen;
+}
